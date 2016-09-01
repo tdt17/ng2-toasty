@@ -10,7 +10,6 @@ npm-debug.log
 coverage
 typings
 typings.json
-**/*.ts
 **/*.js.map
 !*.d.ts
 !src/*.d.ts
